@@ -1,0 +1,20 @@
+{
+  "name": "raid-assets",
+  "version": "1.0.0",
+  "description": "Static files for Raid: Shadow Legends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerfl/raid-assets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerfl/raid-assets/issues"
+  },
+  "homepage": "https://github.com/zerfl/raid-assets#readme"
+}
