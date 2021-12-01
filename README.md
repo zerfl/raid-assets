@@ -1,9 +1,5 @@
-# Raid: Shadow Legends
+# Raid: Shadow Legends assets
 
-Image assets are based on v250.
-Static data and hero types are based on v250.
+Image assets and static data based on Raid: Shadow Legends v258.
 
-Avatar IDs are referenced inside `hero_types.json`.
-
-
-
+Extracted using [UnityAssets] (https://github.com/zerfl/UnityAssets)
